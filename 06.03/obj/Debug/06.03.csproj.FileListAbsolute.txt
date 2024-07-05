@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\adonet\06.03\bin\Debug\06.03.exe.config
+C:\Users\user\source\repos\adonet\06.03\bin\Debug\06.03.exe
+C:\Users\user\source\repos\adonet\06.03\bin\Debug\06.03.pdb
+C:\Users\user\source\repos\adonet\06.03\obj\Debug\06.03.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\adonet\06.03\obj\Debug\06.03.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\adonet\06.03\obj\Debug\06.03.exe
+C:\Users\user\source\repos\adonet\06.03\obj\Debug\06.03.pdb
+C:\Users\user\source\repos\adonet\06.03\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\user\source\repos\adonet\06.03\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\user\source\repos\adonet\06.03\obj\Debug\06.03.csproj.Up2Date

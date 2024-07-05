@@ -1,0 +1,7 @@
+C:\Users\user\Downloads\SalesManager\bin\Debug\SalesManager.exe.config
+C:\Users\user\Downloads\SalesManager\bin\Debug\SalesManager.exe
+C:\Users\user\Downloads\SalesManager\bin\Debug\SalesManager.pdb
+C:\Users\user\Downloads\SalesManager\obj\Debug\SalesManager.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\SalesManager\obj\Debug\SalesManager.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\SalesManager\obj\Debug\SalesManager.exe
+C:\Users\user\Downloads\SalesManager\obj\Debug\SalesManager.pdb

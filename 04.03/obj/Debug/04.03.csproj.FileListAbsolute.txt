@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\adonet\04.03\bin\Debug\SalesManager.exe.config
+C:\Users\user\source\repos\adonet\04.03\bin\Debug\SalesManager.exe
+C:\Users\user\source\repos\adonet\04.03\bin\Debug\SalesManager.pdb
+C:\Users\user\source\repos\adonet\04.03\obj\Debug\04.03.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\adonet\04.03\obj\Debug\04.03.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\adonet\04.03\obj\Debug\SalesManager.exe
+C:\Users\user\source\repos\adonet\04.03\obj\Debug\SalesManager.pdb
